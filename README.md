@@ -137,7 +137,7 @@ Every agent possesses deterministic execution skills rather than conversational 
 ## Autonomous System Telemetry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/easestart-metrics.svg?v=2" alt="EaseStart System Metrics" width="850">
+  <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/easestart-metrics.v2.svg" alt="EaseStart System Metrics" width="850">
 </p>
 
 ---
