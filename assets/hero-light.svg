@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180">
+  <defs>
+    <pattern id="grid-light" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#f1f5f9" stroke-width="0.8"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1000" height="180" fill="#ffffff" rx="12"/>
+  <rect width="1000" height="180" fill="url(#grid-light)" rx="12"/>
+  <rect x="0.5" y="0.5" width="999" height="179" fill="none" stroke="#e2e8f0" stroke-width="1" rx="12"/>
+
+  <!-- Left Accent Marker (Pure Monochrome) -->
+  <rect x="40" y="45" width="4" height="90" fill="#000000" rx="2"/>
+
+  <!-- Main Identity Header -->
+  <text x="64" y="86" fill="#000000" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="38" letter-spacing="-0.03em">EASESTART</text>
+  <text x="315" y="86" fill="#555555" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-weight="600" font-size="24" letter-spacing="-0.02em">/ giantiny-biz</text>
+
+  <!-- Subtitle Hook -->
+  <text x="64" y="124" fill="#555555" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="400" font-size="16">
+    A mini-company inside your computer. From idea to revenue.
+  </text>
+
+  <!-- Decorative Isometric Mechanical Rig on Right (Pure Monochrome B&W) -->
+  <g transform="translate(860, 90)" stroke="#000000" stroke-width="1.2" fill="none">
+    <path d="M 0 -44 L 38 -22 L 38 22 L 0 44 L -38 22 L -38 -22 Z" stroke="#000000"/>
+    <path d="M 0 0 L 38 -22 M 0 0 L -38 -22 M 0 0 L 0 44" stroke="#555555"/>
+    <circle cx="0" cy="0" r="14" stroke="#000000" stroke-dasharray="2 3"/>
+    <circle cx="0" cy="0" r="4" fill="#000000"/>
+    <circle cx="38" cy="-22" r="2.5" fill="#555555"/>
+    <circle cx="-38" cy="-22" r="2.5" fill="#555555"/>
+    <circle cx="0" cy="44" r="2.5" fill="#000000"/>
+    <circle cx="38" cy="22" r="2" fill="#aaaaaa"/>
+    <circle cx="-38" cy="22" r="2" fill="#aaaaaa"/>
+  </g>
+</svg>

@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="850" height="200">
+  <defs>
+    <style>
+      .label { font: 500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #555555; }
+      .val { font: 700 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #000000; }
+      .heading { font: 700 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #000000; letter-spacing: -0.01em; }
+      .sub { font: 400 11px ui-monospace, SFMono-Regular, Menlo, monospace; fill: #777777; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="0.5" y="0.5" width="849" height="199" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="1"/>
+
+  <!-- Left Section: Architecture Metrics -->
+  <g transform="translate(30, 28)">
+    <text x="0" y="0" class="heading">Autonomous System &amp; Engine Telemetry</text>
+    <text x="0" y="18" class="sub">16 STAGE-GATED AGENTS · 85 SKILLS · 1,425 KNOWLEDGE ROWS</text>
+
+    <g transform="translate(0, 42)">
+      <!-- Metric 1 -->
+      <g transform="translate(0, 0)">
+        <text x="0" y="0" class="label">Stage-Gated Agents</text>
+        <text x="185" y="0" class="val">16 Specialist Agents</text>
+      </g>
+      <!-- Metric 2 -->
+      <g transform="translate(0, 24)">
+        <text x="0" y="0" class="label">Execution Skills</text>
+        <text x="185" y="0" class="val">85 Actionable Skills</text>
+      </g>
+      <!-- Metric 3 -->
+      <g transform="translate(0, 48)">
+        <text x="0" y="0" class="label">Knowledge Database</text>
+        <text x="185" y="0" class="val">1,425 Curated Rows</text>
+      </g>
+      <!-- Metric 4 -->
+      <g transform="translate(0, 72)">
+        <text x="0" y="0" class="label">Target Industries</text>
+        <text x="185" y="0" class="val">30 Startup Verticals</text>
+      </g>
+    </g>
+
+    <!-- Score Badge -->
+    <g transform="translate(310, 75)">
+      <circle cx="0" cy="0" r="36" fill="none" stroke="#e5e5e5" stroke-width="5"/>
+      <circle cx="0" cy="0" r="36" fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="210" stroke-dashoffset="20" stroke-linecap="round"/>
+      <text x="0" y="7" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="800" fill="#000000">95</text>
+      <text x="0" y="48" text-anchor="middle" class="sub">READINESS SCORE</text>
+    </g>
+  </g>
+
+  <!-- Divider -->
+  <line x1="435" y1="25" x2="435" y2="175" stroke="#f0f0f0" stroke-width="1"/>
+
+  <!-- Right Section: Protocol Distribution -->
+  <g transform="translate(465, 28)">
+    <text x="0" y="0" class="heading">Execution Discipline &amp; Runtime Stack</text>
+    <text x="0" y="18" class="sub">PLAN → REVIEW → APPROVE → EXECUTE PROTOCOL</text>
+
+    <!-- Progress Bar (Monochrome Shading) -->
+    <g transform="translate(0, 35)">
+      <rect x="0" y="0" width="355" height="8" rx="4" fill="#f0f0f0"/>
+      <!-- Ideate & Validate (35%) -->
+      <rect x="0" y="0" width="124" height="8" rx="4" fill="#000000"/>
+      <!-- Build & Craft (30%) -->
+      <rect x="126" y="0" width="106" height="8" fill="#333333"/>
+      <!-- Market / LOTUS (20%) -->
+      <rect x="234" y="0" width="71" height="8" fill="#666666"/>
+      <!-- Operate & Scale (15%) -->
+      <rect x="307" y="0" width="48" height="8" rx="4" fill="#999999"/>
+    </g>
+
+    <!-- Legend (2 columns) -->
+    <g transform="translate(0, 64)">
+      <!-- Col 1 -->
+      <g transform="translate(0, 0)">
+        <circle cx="5" cy="5" r="4" fill="#000000"/>
+        <text x="16" y="9" class="label">Ideation &amp; Validation</text>
+        <text x="140" y="9" class="val">Stage 1–2</text>
+      </g>
+      <g transform="translate(0, 24)">
+        <circle cx="5" cy="5" r="4" fill="#333333"/>
+        <text x="16" y="9" class="label">Build &amp; Design (EaseUI)</text>
+        <text x="140" y="9" class="val">Stage 3</text>
+      </g>
+      <g transform="translate(0, 48)">
+        <circle cx="5" cy="5" r="4" fill="#666666"/>
+        <text x="16" y="9" class="label">Market (LOTUS Pipeline)</text>
+        <text x="140" y="9" class="val">Stage 4</text>
+      </g>
+
+      <!-- Col 2 -->
+      <g transform="translate(185, 0)">
+        <circle cx="5" cy="5" r="4" fill="#999999"/>
+        <text x="16" y="9" class="label">Operate &amp; Scale</text>
+        <text x="120" y="9" class="val">Stage 5</text>
+      </g>
+      <g transform="translate(185, 24)">
+        <circle cx="5" cy="5" r="4" fill="#bbbbbb"/>
+        <text x="16" y="9" class="label">Local Runtime</text>
+        <text x="120" y="9" class="val">Claude Code</text>
+      </g>
+      <g transform="translate(185, 48)">
+        <circle cx="5" cy="5" r="4" fill="#dddddd" stroke="#999999" stroke-width="0.5"/>
+        <text x="16" y="9" class="label">Dependencies</text>
+        <text x="120" y="9" class="val">Zero Ext</text>
+      </g>
+    </g>
+  </g>
+</svg>
