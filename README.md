@@ -35,7 +35,7 @@ Every agent possesses deterministic execution skills rather than conversational 
   <tr>
     <td width="50%" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/easestart-public">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/codex/easestart.png" alt="EaseStart Flagship Engine" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easestart.png" alt="EaseStart Flagship Engine" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
     </td>
     <td width="50%" valign="middle" style="background-color: #ffffff; padding: 24px; border: 1px solid #e5e5e5;">
@@ -59,7 +59,7 @@ Every agent possesses deterministic execution skills rather than conversational 
   <tr>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/auto-gtm">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/codex/auto-gtm.png" alt="Auto-GTM" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/auto-gtm.png" alt="Auto-GTM" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
         <a href="https://github.com/EaseStart/auto-gtm" style="color: #000000; text-decoration: none;">Auto-GTM Engine</a>
@@ -70,7 +70,7 @@ Every agent possesses deterministic execution skills rather than conversational 
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/EaseUI-PRD">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/codex/easeui.png" alt="EaseUI Design System" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui.png" alt="EaseUI Design System" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
         <a href="https://github.com/EaseStart/EaseUI-PRD" style="color: #000000; text-decoration: none;">EaseUI Design System</a>
@@ -81,7 +81,7 @@ Every agent possesses deterministic execution skills rather than conversational 
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/easeui-email">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/codex/easeui-email.png" alt="EaseUI Email" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui-email.png" alt="EaseUI Email" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
         <a href="https://github.com/EaseStart/easeui-email" style="color: #000000; text-decoration: none;">EaseUI Email Engine</a>
@@ -98,7 +98,7 @@ Every agent possesses deterministic execution skills rather than conversational 
   <tr>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/repo-trend-radar">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/codex/repo-trend-radar.png" alt="Repo Trend Radar" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/repo-trend-radar.png" alt="Repo Trend Radar" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
         <a href="https://github.com/EaseStart/repo-trend-radar" style="color: #000000; text-decoration: none;">Repo Trend Radar</a>
@@ -109,7 +109,7 @@ Every agent possesses deterministic execution skills rather than conversational 
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/ease-invest">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/codex/ease-invest.png" alt="Ease Invest" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/ease-invest.png" alt="Ease Invest" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
         <a href="https://github.com/EaseStart/ease-invest" style="color: #000000; text-decoration: none;">Ease Invest</a>
@@ -120,7 +120,7 @@ Every agent possesses deterministic execution skills rather than conversational 
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/EaseUI-PRD">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/codex/easeui-prd.png" alt="EaseUI PRD" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui-prd.png" alt="EaseUI PRD" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
         <a href="https://github.com/EaseStart/EaseUI-PRD" style="color: #000000; text-decoration: none;">EaseUI Architecture</a>
