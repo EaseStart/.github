@@ -69,11 +69,11 @@ Every agent possesses deterministic execution skills rather than conversational 
       </p>
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
-      <a href="https://ease-ui-prd.vercel.app">
+      <a href="https://jangtrinh.github.io/design-os-generative-ui/">
         <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui.png" alt="EaseUI Design System — Hardware-Grade Tactile UI Components, Design Tokens, and Minimalist Monochrome Visual Language" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
-        <a href="https://ease-ui-prd.vercel.app" style="color: #000000; text-decoration: none;">EaseUI Design System</a>
+        <a href="https://jangtrinh.github.io/design-os-generative-ui/" style="color: #000000; text-decoration: none;">EaseUI Design System</a>
       </h4>
       <p style="color: #444444; font-size: 12px; line-height: 1.5; margin: 0;">
         Hardware-grade tactile UI design system, tokenized components, and minimalist black-and-white visual language.
@@ -119,11 +119,11 @@ Every agent possesses deterministic execution skills rather than conversational 
       </p>
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
-      <a href="https://ease-ui-prd.vercel.app">
+      <a href="https://jangtrinh.github.io/design-os-generative-ui/">
         <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui-prd.png" alt="EaseUI Architecture — Living Product Requirement Specifications, Design Token Contracts, and Modular Software Blueprints" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
-        <a href="https://ease-ui-prd.vercel.app" style="color: #000000; text-decoration: none;">EaseUI Architecture</a>
+        <a href="https://jangtrinh.github.io/design-os-generative-ui/" style="color: #000000; text-decoration: none;">EaseUI Architecture</a>
       </h4>
       <p style="color: #444444; font-size: 12px; line-height: 1.5; margin: 0;">
         Living product requirement specifications, design token contracts, and modular software blueprints.
@@ -173,7 +173,7 @@ AI coding agents and answer engines can ingest the full organization entity grap
 | :--- | :--- | :--- |
 | **EaseStart Co-pilot** | [EaseStart/easestart-public](https://github.com/EaseStart/easestart-public) | Flagship AI Startup Co-pilot with 16 stage-gated agents & 85 execution skills |
 | **Auto-GTM Engine** | [EaseStart/easestart-public](https://github.com/EaseStart/easestart-public) | Signal-first lead discovery, LOTUS customer definition & approval-gated outreach |
-| **EaseUI Design System** | [ease-ui-prd.vercel.app](https://ease-ui-prd.vercel.app) | Hardware-grade tactile UI design system, design tokens & living PRD contracts |
+| **EaseUI Design System** | [ease-ui-prd.vercel.app](https://jangtrinh.github.io/design-os-generative-ui/) | Hardware-grade tactile UI design system, design tokens & living PRD contracts |
 | **EaseUI Email Engine** | [EaseStart/easeui-email](https://github.com/EaseStart/easeui-email) | Production-ready transactional and lifecycle HTML email template suite |
 | **Repo Trend Radar** | [EaseStart/repo-trend-radar](https://github.com/EaseStart/repo-trend-radar) | Autonomous GitHub trending discovery, star velocity & market signal radar |
 | **Ease Invest** | [EaseStart/easestart-public](https://github.com/EaseStart/easestart-public) | Venture evaluation pipeline, financial modeling & founder thesis validation |

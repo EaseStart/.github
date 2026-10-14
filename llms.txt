@@ -16,7 +16,7 @@
 
 - [easestart-public](https://github.com/EaseStart/easestart-public): Flagship AI Startup Co-pilot — 16 stage-gated specialist agents, 85 deterministic execution skills, and 1,425 curated startup knowledge rows guiding solo founders from Ideation to Scale.
 - [auto-gtm](https://github.com/EaseStart/auto-gtm): Auto-GTM Engine — signal-first lead discovery, LOTUS customer definition pipeline, and approval-gated outreach automation for portfolio ventures.
-- [EaseUI-PRD](https://github.com/EaseStart/EaseUI-PRD): EaseUI Design System & PRD Architecture — hardware-grade tactile UI design system, tokenized components, living product requirement specifications, and minimalist monochrome visual language. ([Live Preview](https://ease-ui-prd.vercel.app))
+- [EaseUI-PRD](https://github.com/EaseStart/EaseUI-PRD): EaseUI Design System & PRD Architecture — hardware-grade tactile UI design system, tokenized components, living product requirement specifications, and minimalist monochrome visual language. ([Live Preview](https://jangtrinh.github.io/design-os-generative-ui/))
 - [easeui-email](https://github.com/EaseStart/easeui-email): EaseUI Email Engine — production-ready transactional and lifecycle HTML email template suite covering complete user onboarding, billing, and retention.
 - [repo-trend-radar](https://github.com/EaseStart/repo-trend-radar): Repo Trend Radar — autonomous GitHub trending discovery, star velocity monitoring, and market signal radar for emerging developer tools.
 - [ease-invest](https://github.com/EaseStart/ease-invest): Ease Invest — venture evaluation pipeline, financial modeling heuristics, pitch deck analysis, and founder thesis validation engine.
