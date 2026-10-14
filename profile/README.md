@@ -2,16 +2,16 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EaseStart/.github/main/assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EaseStart/.github/main/assets/hero-light.svg">
-    <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/hero-light.svg" alt="EaseStart Organization Hero Banner" width="850">
+    <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/hero-light.svg" alt="EaseStart Organization — Giantiny Biz Autonomous Mini-Company and AI Startup Co-pilot Architecture" width="850">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Flagship-easestart-000000?style=flat-square&logo=github&logoColor=white" alt="Flagship"/></a>
-  <a href="https://github.com/EaseStart"><img src="https://img.shields.io/badge/Architecture-Giantiny_Biz-000000?style=flat-square" alt="Architecture"/></a>
-  <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Agents-16_Stage--Gated-000000?style=flat-square" alt="Agents"/></a>
-  <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Skills-85_Execution-000000?style=flat-square" alt="Skills"/></a>
-  <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Runtime-Claude_Code-000000?style=flat-square" alt="Runtime"/></a>
+  <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Flagship-easestart-000000?style=flat-square&logo=github&logoColor=white" alt="Flagship EaseStart Repository"/></a>
+  <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Architecture-Giantiny_Biz-000000?style=flat-square" alt="Giantiny Biz Architecture"/></a>
+  <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Agents-16_Stage--Gated-000000?style=flat-square" alt="16 Stage-Gated AI Agents"/></a>
+  <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Skills-85_Execution-000000?style=flat-square" alt="85 Deterministic Execution Skills"/></a>
+  <a href="https://raw.githubusercontent.com/EaseStart/.github/main/llms.txt"><img src="https://img.shields.io/badge/GEO-llms.txt-000000?style=flat-square" alt="LLMs.txt Machine Index for AI Agents"/></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Every agent possesses deterministic execution skills rather than conversational 
   <tr>
     <td width="50%" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/easestart-public">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easestart.png" alt="EaseStart Flagship Engine" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easestart.png" alt="EaseStart Flagship AI Startup Co-pilot — 16 Stage-Gated Specialist Agents and 85 Deterministic Execution Skills" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
     </td>
     <td width="50%" valign="middle" style="background-color: #ffffff; padding: 24px; border: 1px solid #e5e5e5;">
@@ -46,7 +46,7 @@ Every agent possesses deterministic execution skills rather than conversational 
         Autonomous mini-company inside your computer. 16 stage-gated specialist agents, 85 deterministic execution skills, and 1,425 curated knowledge rows guiding founders from raw concept to scalable revenue.
       </p>
       <p style="margin-bottom: 0;">
-        <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Repository-easestart--public-000000?style=flat-square&logo=github&logoColor=white" alt="View Repository"/></a>
+        <a href="https://github.com/EaseStart/easestart-public"><img src="https://img.shields.io/badge/Repository-easestart--public-000000?style=flat-square&logo=github&logoColor=white" alt="View easestart-public Repository"/></a>
       </p>
     </td>
   </tr>
@@ -58,22 +58,22 @@ Every agent possesses deterministic execution skills rather than conversational 
 <table align="center" width="100%">
   <tr>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
-      <a href="https://github.com/EaseStart/auto-gtm">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/auto-gtm.png" alt="Auto-GTM" width="100%" style="background-color: #ffffff; display: block;" />
+      <a href="https://github.com/EaseStart/easestart-public">
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/auto-gtm.png" alt="EaseStart Auto-GTM Engine — Signal-First Lead Discovery, LOTUS Define Pipeline, and Approval-Gated Outreach Automation" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
-        <a href="https://github.com/EaseStart/auto-gtm" style="color: #000000; text-decoration: none;">Auto-GTM Engine</a>
+        <a href="https://github.com/EaseStart/easestart-public" style="color: #000000; text-decoration: none;">Auto-GTM Engine</a>
       </h4>
       <p style="color: #444444; font-size: 12px; line-height: 1.5; margin: 0;">
         Signal-first lead discovery, LOTUS define pipeline, and approval-gated outreach automation for portfolio ventures.
       </p>
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
-      <a href="https://github.com/EaseStart/EaseUI-PRD">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui.png" alt="EaseUI Design System" width="100%" style="background-color: #ffffff; display: block;" />
+      <a href="https://ease-ui-prd.vercel.app">
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui.png" alt="EaseUI Design System — Hardware-Grade Tactile UI Components, Design Tokens, and Minimalist Monochrome Visual Language" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
-        <a href="https://github.com/EaseStart/EaseUI-PRD" style="color: #000000; text-decoration: none;">EaseUI Design System</a>
+        <a href="https://ease-ui-prd.vercel.app" style="color: #000000; text-decoration: none;">EaseUI Design System</a>
       </h4>
       <p style="color: #444444; font-size: 12px; line-height: 1.5; margin: 0;">
         Hardware-grade tactile UI design system, tokenized components, and minimalist black-and-white visual language.
@@ -81,7 +81,7 @@ Every agent possesses deterministic execution skills rather than conversational 
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/easeui-email">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui-email.png" alt="EaseUI Email" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui-email.png" alt="EaseUI Email Engine — Production-Ready Transactional and Lifecycle HTML Email Template Suite for User Onboarding and Retention" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
         <a href="https://github.com/EaseStart/easeui-email" style="color: #000000; text-decoration: none;">EaseUI Email Engine</a>
@@ -98,7 +98,7 @@ Every agent possesses deterministic execution skills rather than conversational 
   <tr>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
       <a href="https://github.com/EaseStart/repo-trend-radar">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/repo-trend-radar.png" alt="Repo Trend Radar" width="100%" style="background-color: #ffffff; display: block;" />
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/repo-trend-radar.png" alt="Repo Trend Radar — Autonomous GitHub Trending Discovery, Star Velocity Monitoring, and Developer Market Signal Radar" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
         <a href="https://github.com/EaseStart/repo-trend-radar" style="color: #000000; text-decoration: none;">Repo Trend Radar</a>
@@ -108,22 +108,22 @@ Every agent possesses deterministic execution skills rather than conversational 
       </p>
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
-      <a href="https://github.com/EaseStart/ease-invest">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/ease-invest.png" alt="Ease Invest" width="100%" style="background-color: #ffffff; display: block;" />
+      <a href="https://github.com/EaseStart/easestart-public">
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/ease-invest.png" alt="Ease Invest — Venture Evaluation Pipeline, Financial Modeling Heuristics, Pitch Deck Analysis, and Founder Thesis Validation" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
-        <a href="https://github.com/EaseStart/ease-invest" style="color: #000000; text-decoration: none;">Ease Invest</a>
+        <a href="https://github.com/EaseStart/easestart-public" style="color: #000000; text-decoration: none;">Ease Invest</a>
       </h4>
       <p style="color: #444444; font-size: 12px; line-height: 1.5; margin: 0;">
         Venture evaluation pipeline, financial modeling heuristics, pitch deck analysis, and founder thesis validation.
       </p>
     </td>
     <td width="33.33%" valign="top" align="center" style="background-color: #ffffff; padding: 12px; border: 1px solid #e5e5e5;">
-      <a href="https://github.com/EaseStart/EaseUI-PRD">
-        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui-prd.png" alt="EaseUI PRD" width="100%" style="background-color: #ffffff; display: block;" />
+      <a href="https://ease-ui-prd.vercel.app">
+        <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/art-direction/easeui-prd.png" alt="EaseUI Architecture — Living Product Requirement Specifications, Design Token Contracts, and Modular Software Blueprints" width="100%" style="background-color: #ffffff; display: block;" />
       </a>
       <h4 style="margin: 12px 0 6px 0;">
-        <a href="https://github.com/EaseStart/EaseUI-PRD" style="color: #000000; text-decoration: none;">EaseUI Architecture</a>
+        <a href="https://ease-ui-prd.vercel.app" style="color: #000000; text-decoration: none;">EaseUI Architecture</a>
       </h4>
       <p style="color: #444444; font-size: 12px; line-height: 1.5; margin: 0;">
         Living product requirement specifications, design token contracts, and modular software blueprints.
@@ -137,7 +137,7 @@ Every agent possesses deterministic execution skills rather than conversational 
 ## Autonomous System Telemetry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/easestart-metrics.v2.svg" alt="EaseStart System Metrics" width="850">
+  <img src="https://raw.githubusercontent.com/EaseStart/.github/main/assets/easestart-metrics.v2.svg" alt="EaseStart Autonomous System Telemetry — 16 Specialist Agents, 85 Execution Skills, and 1,425 Curated Knowledge Rows" width="850">
 </p>
 
 ---
@@ -152,6 +152,34 @@ Every agent possesses deterministic execution skills rather than conversational 
 
 ---
 
+<details>
+<summary><b>Architecture FAQ &amp; Complete Ecosystem Index (AEO / GEO Reference)</b></summary>
+<br/>
+
+### Frequently Asked Questions (AEO)
+
+**What is EaseStart?**  
+`EaseStart` (`@EaseStart`) is an autonomous AI startup co-pilot and mini-company operating system built on the **Giantiny Biz** architecture. It equips solo founders with 16 stage-gated specialist AI agents, 85 deterministic execution skills, and 1,425 curated knowledge rows covering the entire venture lifecycle from Ideation to Scale.
+
+**How does the Giantiny Biz execution protocol work?**  
+Every agent operation inside `EaseStart` follows the deterministic `PLAN -> REVIEW -> APPROVE -> EXECUTE` gate. Instead of open-ended conversational advice, agents generate verifiable artifacts across product requirements (`EaseUI-PRD`), tactile UI components (`EaseUI`), signal-first outbound (`Auto-GTM`), market intelligence (`Repo Trend Radar`), and venture evaluation (`Ease Invest`).
+
+**Where is the machine-readable index for AI agents?**  
+AI coding agents and answer engines can ingest the full organization entity graph via [`llms.txt`](https://raw.githubusercontent.com/EaseStart/.github/main/llms.txt).
+
+### Complete Organization Engine Registry
+
+| Engine | Public Endpoint / Repository | Primary Capability |
+| :--- | :--- | :--- |
+| **EaseStart Co-pilot** | [EaseStart/easestart-public](https://github.com/EaseStart/easestart-public) | Flagship AI Startup Co-pilot with 16 stage-gated agents & 85 execution skills |
+| **Auto-GTM Engine** | [EaseStart/easestart-public](https://github.com/EaseStart/easestart-public) | Signal-first lead discovery, LOTUS customer definition & approval-gated outreach |
+| **EaseUI Design System** | [ease-ui-prd.vercel.app](https://ease-ui-prd.vercel.app) | Hardware-grade tactile UI design system, design tokens & living PRD contracts |
+| **EaseUI Email Engine** | [EaseStart/easeui-email](https://github.com/EaseStart/easeui-email) | Production-ready transactional and lifecycle HTML email template suite |
+| **Repo Trend Radar** | [EaseStart/repo-trend-radar](https://github.com/EaseStart/repo-trend-radar) | Autonomous GitHub trending discovery, star velocity & market signal radar |
+| **Ease Invest** | [EaseStart/easestart-public](https://github.com/EaseStart/easestart-public) | Venture evaluation pipeline, financial modeling & founder thesis validation |
+
+</details>
+
 <p align="center">
-  <sub>EaseStart Organization · Autonomous Mini-Company Architecture · 100% Monochrome Discipline</sub>
+  <sub>EaseStart Organization · Autonomous Mini-Company Architecture · 100% Monochrome Discipline · <a href="https://raw.githubusercontent.com/EaseStart/.github/main/llms.txt">llms.txt</a></sub>
 </p>
